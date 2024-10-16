@@ -1,0 +1,14 @@
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\model\BizSnapshot.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\snapshot\BizSnapshotService.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\mapper\StateMachineMapper.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\model\StatePersister.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\core\StateMachineSnapshot.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\config\StateConfiguration.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\persist\StateMachinePersisterImpl.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\core\StatusChangeHandler.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\core\StatusDefine.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\persist\StateMachinePersister.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\snapshot\BizSnapshotServiceImpl.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\AbstractStateMachine.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\mapper\BizSnapshotMapper.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-statemachine\src\main\java\com\jzo2o\statemachine\core\StatusChangeEvent.java

@@ -1,0 +1,12 @@
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\domain\FailMsg.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\plugins\ErrorMessageRecoverer.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\client\RabbitClient.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\dao\impl\FailMsgDaoImpl.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\domain\ErrorRabbitMqMessage.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\plugins\RabbitMqListenableFutureCallback.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\config\RabbitMqConfiguration.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\dao\FailMsgDao.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\plugins\DelayMessagePostProcessor.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\properties\RabbitmqProperties.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\dao\mapper\FailMsgMapper.java
+F:\JavaProject\Housekeeping\jzo2o-framework\jzo2o-rabbitmq\src\main\java\com\jzo2o\rabbitmq\plugins\RabbitMqResender.java
